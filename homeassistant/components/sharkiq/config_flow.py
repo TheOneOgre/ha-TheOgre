@@ -19,7 +19,6 @@ from homeassistant.helpers.aiohttp_client import async_get_clientsession
 
 from .const import (
     DOMAIN,
-    LOGGER,
     SHARKIQ_REGION_DEFAULT,
     SHARKIQ_REGION_EUROPE,
     SHARKIQ_REGION_OPTIONS,
